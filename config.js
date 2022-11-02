@@ -39,57 +39,57 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', true],
-['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', true]
+['6285232604817', 'koko•rey ᴍᴀᴋᴇʀ✓', true],
+['6285232604817', 'koko•rey ᴍᴀᴋᴇʀ✓', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.nomorown1 = '6285380166285'
-global.nomorown2 = '6285380166282'
-global.nomorwa = '0'
+global.nomorbot = '6285232604817'
+global.nomorown = '6285232604817'
+global.nomorown1 = '6285232604817'
+global.nomorown2 = '6285771052661'
+global.nomorwa = '085232604817'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.author = 'Created By koko•rey ᴍᴀᴋᴇʀ✓'
+global.namebot = 'koko•rey ʙᴏᴛᴢ✓'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 koko•rey ᴍᴀᴋᴇʀ✓'
 global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 global.watermark = wm
-global.wm2 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ '
+global.wm2 = '✞koko•rey✞ ʙᴏᴛᴢ✓ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ 𝐗 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`
-global.stickpack = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ 𝐗 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.stickauth = `© ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ MD`
+global.titlebot = `✞koko•rey✞ ʙᴏᴛᴢ✓ 𝐗 ®.KoKo•Rey ᴍᴀᴋᴇʀ✓`
+global.stickpack = '✞koko•rey✞ ʙᴏᴛᴢ✓ 𝐗 ®.KoKo•Rey ᴍᴀᴋᴇʀ✓'
+global.stickauth = `✞koko•rey✞ ʙᴏᴛᴢ✓ MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.nameown2 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
+global.nameown1= '✞koko•rey✞ ᴍᴀᴋᴇʀ✓'
+global.nameown2 = '®.KoKo•Rey✓ ʙᴏᴛᴢ✓'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/kahfi.xd'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kahfiofc0'
-global.sgh = 'https://github.com/Frezzy-XD' //github
+global.sig = 'https://instagram.com/callme_rey1910'
+global.sgh = 'https://github.com/MendingSalto' //github
 global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0853-8016-6282'
+global.pdana = '085232604817'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
+global.ppulsa = '085232604517'
+global.ppulsa2 = '085655771052'
 global.psaweria = 'https://saweria.co/MaxxyBotz'
 
 
@@ -304,9 +304,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/Frezzy-XD"
+global.urlnya = "https://www.instagram.com/callme_rey1910"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '085380166282'
+global.phn = '085232604817'
 
 global.thumbdoc = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
